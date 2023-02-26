@@ -1,0 +1,12 @@
+C:\Users\johan\Downloads\Inventarios\Inventarios\Modelos\bin\Debug\Modelos.dll
+C:\Users\johan\Downloads\Inventarios\Inventarios\Modelos\bin\Debug\Modelos.pdb
+C:\Users\johan\Downloads\Inventarios\Inventarios\Modelos\obj\Debug\Modelos.csproj.AssemblyReference.cache
+C:\Users\johan\Downloads\Inventarios\Inventarios\Modelos\obj\Debug\Modelos.csproj.CoreCompileInputs.cache
+C:\Users\johan\Downloads\Inventarios\Inventarios\Modelos\obj\Debug\Modelos.dll
+C:\Users\johan\Downloads\Inventarios\Inventarios\Modelos\obj\Debug\Modelos.pdb
+C:\Users\Johann Tristán\OneDrive\Documentos\ITSUR\Semestre 6\Administración Base Datos\Inventarios\Inventarios\Inventarios\Modelos\bin\Debug\Modelos.dll
+C:\Users\Johann Tristán\OneDrive\Documentos\ITSUR\Semestre 6\Administración Base Datos\Inventarios\Inventarios\Inventarios\Modelos\bin\Debug\Modelos.pdb
+C:\Users\Johann Tristán\OneDrive\Documentos\ITSUR\Semestre 6\Administración Base Datos\Inventarios\Inventarios\Inventarios\Modelos\obj\Debug\Modelos.csproj.AssemblyReference.cache
+C:\Users\Johann Tristán\OneDrive\Documentos\ITSUR\Semestre 6\Administración Base Datos\Inventarios\Inventarios\Inventarios\Modelos\obj\Debug\Modelos.csproj.CoreCompileInputs.cache
+C:\Users\Johann Tristán\OneDrive\Documentos\ITSUR\Semestre 6\Administración Base Datos\Inventarios\Inventarios\Inventarios\Modelos\obj\Debug\Modelos.dll
+C:\Users\Johann Tristán\OneDrive\Documentos\ITSUR\Semestre 6\Administración Base Datos\Inventarios\Inventarios\Inventarios\Modelos\obj\Debug\Modelos.pdb
